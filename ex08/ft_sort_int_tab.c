@@ -9,7 +9,7 @@
 /*   Updated: 2023/09/08 21:21:37 by ade-beco         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-
+// Segmentation Fault 11
 void	ft_sort_int_tab(int *tab, int size)
 {
 	int	con1;
